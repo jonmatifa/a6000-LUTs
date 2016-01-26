@@ -6,4 +6,4 @@ LUTs are based on Portrait picture profile, set to -3 contrast, -3 saturation, -
 
 * There are slog2 and slog3 output LUTs which emulate those respective profiles
 
-* Lastly there is the "vivid" LUT, which is a lightly modified film emulation LUT appropriate for the a6000
+* Then there is the "vivid" LUT, which is a lightly modified film emulation LUT with hyped-up saturation appropriate for the a6000
